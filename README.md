@@ -53,6 +53,7 @@ Proyecto_AdivinaLaPalabra/
 ├── game_logic.py
 ├── README.md
 ├── LICENSE
+├── Bitacora_conflictos.md
 └── .gitignore
 ```
 
@@ -64,6 +65,7 @@ Proyecto_AdivinaLaPalabra/
 - **game_logic.py:** contiene las constantes, categorías, niveles, palabras, pistas y funciones relacionadas con la lógica del juego.
 - **README.md:** presenta la documentación general del proyecto.
 - **LICENSE:** contiene los términos de distribución y uso del proyecto.
+- **Bitacora_conflictos.md:** documenta las dificultades presentadas durante el desarrollo del proyecto y las soluciones propuestas mediante la fórmula asertiva.
 - **.gitignore:** establece qué archivos deben excluirse del control de versiones.
 
 ## Estado actual del desarrollo
