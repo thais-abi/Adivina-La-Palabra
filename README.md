@@ -54,6 +54,8 @@ Proyecto_AdivinaLaPalabra/
 ├── README.md
 ├── LICENSE
 ├── Bitacora_conflictos.md
+├── Diagrama 1.png
+├── Diagrama 2.png
 └── .gitignore
 ```
 
