@@ -130,7 +130,7 @@ Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo `LICENSE` 
 ## Créditos y atribuciones
 
 - **Bibliotecas:** se utilizan bibliotecas de Python, entre ellas Tkinter, socket, JSON y otras herramientas de la biblioteca estándar.
-- **Inteligencia artificial:** se utilizó ChatGPT como herramienta de apoyo para la explicación de conceptos, orientación en la programación, revisión de código y organización de los módulos.
+- **Inteligencia artificial:** se utilizó ChatGPT como herramienta de apoyo para la explicación de conceptos, orientación en la programación, revisión de código y organización de los módulos. Los integrantes del equipo son responsables de revisar y validar el código final.
 - **Recursos visuales:** la interfaz inicial utiliza elementos gráficos de Tkinter. No se han incorporado recursos visuales externos en esta versión inicial.
 
 El código y los materiales del proyecto se desarrollan con fines académicos.
